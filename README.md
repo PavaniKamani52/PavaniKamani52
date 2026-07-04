@@ -2,7 +2,7 @@
 
 ### 🙋 About Me
 
-I'm a Computer Science undergraduate specializing in AI & Data Science, based in India. I enjoy building AI-powered applications, working with LLMs and RAG pipelines, and turning raw data into clear, actionable insights. Currently maintaining a 9.69 CGPA while shipping side projects and completing data/AI internships.
+I'm a Computer Science undergraduate specializing in AI & Data Science, based in India. I enjoy building AI-powered applications, working with LLMs and RAG pipelines, and turning raw data into clear, actionable insights. Currently maintaining a 9.51 CGPA while shipping side projects and completing data/AI internships.
 
 ---
 
