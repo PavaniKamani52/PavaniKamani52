@@ -1,6 +1,8 @@
-<h2 align="left">Hey, I'm Pavani Kamani 👩‍💻</h2>
+<h2 align="left">Hi, I'm Pavani Kamani 👋</h2>
 
-I'm a Computer Science undergrad (AI & Data Science) turning data into decisions and ideas into working AI products. Based in India, currently maintaining a 9.69 CGPA while shipping projects on the side.
+### 🙋 About Me
+
+I'm a Computer Science undergrad specializing in AI & Data Science, based in India. I enjoy building AI-powered applications, working with LLMs and RAG pipelines, and turning raw data into clear, actionable insights. Currently maintaining a 9.69 CGPA while shipping side projects and completing data/AI internships.
 
 ---
 
@@ -31,6 +33,7 @@ Built 20+ visualizations and interactive KPI dashboards, translating raw data in
 | Vector & Databases | MySQL · FAISS · ChromaDB · Pinecone · Weaviate |
 | Analytics & BI | Tableau · Power BI · Excel |
 | Tooling | Git · GitHub · VS Code · Canva |
+| Currently Learning | System Design · DSA · Backend Engineering |
 
 ---
 
@@ -50,15 +53,14 @@ Built 20+ visualizations and interactive KPI dashboards, translating raw data in
 
 ---
 
-### 📊 GitHub Activity
+### 🤝 Connect With Me
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PavaniKamani52&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavaniKamani52&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-📧 pavanikamani14@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/pavani-kamani-90054832b) &nbsp;|&nbsp; [GitHub](https://github.com/PavaniKamani52)
+<a href="https://www.linkedin.com/in/pavani-kamani-90054832b" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/PavaniKamani52" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:pavanikamani14@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
