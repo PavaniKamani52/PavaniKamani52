@@ -8,14 +8,18 @@ I'm a Computer Science undergraduate specializing in AI & Data Science, based in
 
 ### 🎓 Education
 
-**B.Tech, Computer Science (AI & Data Science)** — Vishnu Institute of Technology *(2023 – Present)*
+**B.Tech, Computer Science (AI & Data Science)** — Vishnu Institute of Technology *(2023 – 2027)*
 CGPA: 9.51
 
 ---
 
 ### 💼 Experience
 
-I've interned as a **Data Science Intern at AICTE**, where I cleaned and analyzed 5,000+ records to improve dataset quality by 30%, and as a **Data Analytics Intern at SmartBridge**, building 20+ Tableau visualizations and KPI dashboards. I'm currently part of the **Amazon Machine Learning Summer School**, deepening my applied ML knowledge alongside my ongoing project work.
+**Data Science Intern** — AICTE *(May – June 2025)*
+Cleaned and analyzed 5,000+ records with Python/Pandas, lifting dataset quality by 30% and contributing to a 15% campaign performance uplift.
+
+**Data Analytics Intern (Tableau)** — SmartBridge Educational Services *(May – July 2025)*
+Built 20+ visualizations and interactive KPI dashboards, translating raw data into insights for non-technical stakeholders.
 
 ---
 
