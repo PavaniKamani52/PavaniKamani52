@@ -62,12 +62,10 @@ Built 20+ visualizations and interactive KPI dashboards, translating raw data in
 
 **[AI-Powered ATS Resume Analyzer](https://github.com/pavanikamani14/ATS-Resume-Analyzer)**
 Built a resume screening tool that parses resumes, extracts keywords, and semantically matches them against job descriptions using NLP and the Google Gemini API.
-
 Improved keyword optimization by 35%, helping candidates tailor resumes more effectively for ATS systems and recruiters.
 
 **[LLM-Based PDF RAG & Semantic Search Engine](https://github.com/pavanikamani/PDF-RAG-Projects)**
 Designed a Retrieval-Augmented Generation pipeline that lets users query multiple PDF documents using natural language, combining chunking, embeddings, and vector storage.
-
 Indexed 500+ text chunks with FAISS, enabling fast and accurate semantic search across large, multi-document collections.
 
 **[Dietary Strategies Data Visualization](https://github.com/pavanikamani14/Comprehensive-Analysis-Dietary-Strategies)**
