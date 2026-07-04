@@ -8,18 +8,14 @@ I'm a Computer Science undergraduate specializing in AI & Data Science, based in
 
 ### 🎓 Education
 
-**B.Tech, Computer Science (AI & Data Science)** — Vishnu Institute of Technology *(2023 – 2027)*
-CGPA: 9.69
+**B.Tech, Computer Science (AI & Data Science)** — Vishnu Institute of Technology *(2023 – Present)*
+CGPA: 9.51
 
 ---
 
 ### 💼 Experience
 
-**Data Science Intern** — AICTE *(May – June 2025)*
-Cleaned and analyzed 5,000+ records with Python/Pandas, lifting dataset quality by 30% and contributing to a 15% campaign performance uplift.
-
-**Data Analytics Intern (Tableau)** — SmartBridge Educational Services *(May – July 2025)*
-Built 20+ visualizations and interactive KPI dashboards, translating raw data into insights for non-technical stakeholders.
+I've interned as a **Data Science Intern at AICTE**, where I cleaned and analyzed 5,000+ records to improve dataset quality by 30%, and as a **Data Analytics Intern at SmartBridge**, building 20+ Tableau visualizations and KPI dashboards. I'm currently part of the **Amazon Machine Learning Summer School**, deepening my applied ML knowledge alongside my ongoing project work.
 
 ---
 
@@ -33,15 +29,47 @@ Built 20+ visualizations and interactive KPI dashboards, translating raw data in
 | Vector & Databases | MySQL · FAISS · ChromaDB · Pinecone · Weaviate |
 | Analytics & BI | Tableau · Power BI · Excel |
 | Tooling | Git · GitHub · VS Code · Canva |
-| Currently Learning | System Design · DSA · Backend Engineering |
+
+---
+
+### 💻 Coding Profiles
+
+<a href="https://leetcode.com/u/Pavani_Kamani_19/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.hackerrank.com/profile/pavanikamani14" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/such_swan_28" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+---
+
+### 🔥 Currently
+
+- Solving DSA problems consistently on LeetCode
+- Exploring deeper knowledge in RAG, Generative AI, and Agentic AI systems
+- Part of the Amazon Machine Learning Summer School
 
 ---
 
 ### 🧪 Things I've Built
 
-- **[AI-Powered ATS Resume Analyzer](https://github.com/pavanikamani14/ATS-Resume-Analyzer)** — Parses resumes, extracts keywords, and semantically matches them to job descriptions using NLP + Gemini API, improving keyword optimization by 35%.
-- **[LLM-Based PDF RAG & Semantic Search Engine](https://github.com/pavanikamani/PDF-RAG-Projects)** — Retrieval-Augmented Generation pipeline for querying multiple PDFs, indexing 500+ text chunks with FAISS.
-- **[Dietary Strategies Data Visualization](https://github.com/pavanikamani14/Comprehensive-Analysis-Dietary-Strategies)** — Cleaned and visualized 1,000+ nutrition records into 10+ KPI dashboards using Tableau.
+**[AI-Powered ATS Resume Analyzer](https://github.com/pavanikamani14/ATS-Resume-Analyzer)**
+Built a resume screening tool that parses resumes, extracts keywords, and semantically matches them against job descriptions using NLP and the Google Gemini API.
+
+Improved keyword optimization by 35%, helping candidates tailor resumes more effectively for ATS systems and recruiters.
+
+**[LLM-Based PDF RAG & Semantic Search Engine](https://github.com/pavanikamani/PDF-RAG-Projects)**
+Designed a Retrieval-Augmented Generation pipeline that lets users query multiple PDF documents using natural language, combining chunking, embeddings, and vector storage.
+
+Indexed 500+ text chunks with FAISS, enabling fast and accurate semantic search across large, multi-document collections.
+
+**[Dietary Strategies Data Visualization](https://github.com/pavanikamani14/Comprehensive-Analysis-Dietary-Strategies)**
+Cleaned and analyzed 1,000+ nutrition-related records using Tableau and Excel to uncover patterns across dietary strategies.
+
+Delivered 10+ KPI-driven dashboards, using data storytelling to make insights accessible to non-technical audiences.
 
 ---
 
@@ -50,6 +78,8 @@ Built 20+ visualizations and interactive KPI dashboards, translating raw data in
 - IBM SkillBuild — Data Analytics, Visualization & Business Intelligence
 - Kaggle — Pandas & NumPy for Data Analysis
 - NPTEL — Introduction to Quantum Computing
+- DataCamp — Introduction to Embeddings with the OpenAI API
+- Vishnu Institute of Technology × DataValley — GenAI & Agentic Intelligence Innovation Hackathon (Participation)
 
 ---
 
